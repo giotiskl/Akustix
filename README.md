@@ -1,12 +1,12 @@
 # [Akustix](http://yiotis.net/showcase/akustix)
 
 ##Description
-Akustix is a free, Bootstrap website theme for instrument manufacturer and resellers and comes in the form of a single-page application. The files to the store sections are not included.
+Akustix is a free, Bootstrap website theme for instrument manufacturer and resellers and comes in the form of a single-page application. The files to the store sections are not included. For a live preview of the Akustix theme click [here](http://yiotis.net/showcase/akustix).
 
 ##Frameworks & Plugins
-* CSS: SASS, Bootstrap, Animate.css
-* Fonts: Lato, Ion-icons
-* JavaScript: jQuery, Gmaps.js, Waypoints.js
+* CSS: SASS, Bootstrap, Animate.css.
+* Fonts: Lato, Ion-icons.
+* JavaScript: jQuery, Gmaps.js, Waypoints.js.
 
 ##Browser support
 IE10+ and all modern browsers.
